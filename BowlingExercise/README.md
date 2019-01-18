@@ -2,7 +2,7 @@ Downloading and Running Steps:
 
 
 Downloading
-1. Clone or download repository at https://github.com/MarkErickson02/BowlingExercise/edit/master/BowlingExercise
+1. Clone or download repository at https://github.com/MarkErickson02/BowlingExercise
 
 2. Open Visual Studio and open team explorer.
 
